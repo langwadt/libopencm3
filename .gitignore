@@ -6,7 +6,6 @@
 *.srec
 *.a
 *.elf
-lib/*.ld
 *.stylecheck
 *.swp
 \#*
@@ -20,13 +19,6 @@ latex/
 *.tag
 .DS_Store
 # These are generated
-include/libopencmsis/efm32/
-include/libopencmsis/lm3s/
-include/libopencmsis/lpc13xx/
-include/libopencmsis/lpc17xx/
-include/libopencmsis/lpc43xx/
-include/libopencmsis/sam/
-include/libopencmsis/vf6xx/
 
 # netbeans, intellij, eclipse project files
 nbproject/
